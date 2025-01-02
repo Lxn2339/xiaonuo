@@ -1,0 +1,29 @@
+	(1)
+VARIABLES	lnNumber
+	
+lnSwap	0.0294**
+	(0.0144)
+Age	0.00960***
+	(0.00225)
+PPE	2.039***
+	(0.0772)
+Tax	0.00765
+	(0.00647)
+lnJobh	-0.232***
+	(0.0717)
+lnpopul	0.253***
+	(0.0761)
+Exp	-0.0634
+	(0.234)
+lnWage	-0.407*
+	(0.210)
+lnSalary	0.819***
+	(0.0195)
+Constant	-1.552
+	(0.991)
+	
+Observations	8,839
+Number of Year	4
+R-squared	0.212
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
